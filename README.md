@@ -27,12 +27,6 @@
   <img src="https://img.shields.io/badge/GITHUB-312E81?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ryanleem&label=PROFILE+VIEWS&color=6d28d9&style=flat-square" />
-<img src="https://img.shields.io/github/followers/ryanleem?label=FOLLOWERS&style=flat-square&color=4f46e5" />
-<img src="https://img.shields.io/github/stars/ryanleem?affiliations=OWNER&style=flat-square&label=STARS&color=7c3aed" />
-
 </div>
 
 ---
