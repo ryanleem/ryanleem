@@ -125,6 +125,17 @@ Included reporting for:
 
 ## Experience
 
+### AI Evaluation Specialist — micro1
+**2026 — Present**
+
+I evaluate AI-generated responses and help improve the quality of AI training and evaluation data.
+
+- Evaluate responses for accuracy, reasoning quality, relevance, and instruction-following
+- Identify errors, inconsistencies, and weak reasoning
+- Provide structured feedback used to improve AI evaluation data
+
+---
+
 ### AI Benchmark Developer — Handshake AI
 **2026 — Present**
 
